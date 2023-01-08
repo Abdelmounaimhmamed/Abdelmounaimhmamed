@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://twitter.com/abdelmounaimhm2" target="blank"><img src="https://img.shields.io/twitter/follow/abdelmounaimhm2?logo=twitter&style=for-the-badge" alt="abdelmounaimhm2" /></a> </p>
 
-- 🔭 I’m currently working on **libft**
+- 🔭 I’m currently working on **$work**
 
-- 🌱 I’m currently learning **react native**
+- 🌱 I’m currently learning **Kubernetes**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdelmounaimhmamed?tab=repositories])
 
