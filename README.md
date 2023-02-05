@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelmounaim hmamed</h1>
-<h3 align="center">A software and engineer student passionate about web and desktop development</h3>
+<h3 align="center">A software and Data  engineer student passionate about web and desktop development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelmounaimhmamed&label=Profile%20views&color=0e75b6&style=flat" alt="abdelmounaimhmamed" /> </p>
 
